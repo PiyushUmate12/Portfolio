@@ -101,28 +101,28 @@ body{
     float: left;
     background: linear-gradient(to bottom right , #f0bb0f,#fb6d48); 
 }
-.C_language{
-width:90%;
-animation: C_language 3s;
+.java{
+width:70%;
+animation: java 3s;
 }
 .html{
     width:90%;
     animation: html 3s;
     }
  .CSS{
-    width:60%;
+    width:70%;
     animation: CSS 3s;
       } 
  .JavaScript{
-   width:45%;
+   width:80%;
  animation:JavaScript 3s;
     }
-    @keyframes C_language{
+    @keyframes java{
         0%{
             width: 0%;
         }
         100%{
-            width:90%;
+            width:70%;
         }
     }
     @keyframes html{
@@ -138,7 +138,7 @@ animation: C_language 3s;
             width: 0%;
         }
         100%{
-            width:60%;
+            width:70%;
         }
     }
     @keyframes JavaScript{
@@ -146,7 +146,7 @@ animation: C_language 3s;
             width: 0%;
         }
         100%{
-            width:45%;
+            width:80%;
         }
     }
 
@@ -167,7 +167,6 @@ animation: C_language 3s;
     font-weight: 600;
     text-align: center;
 }
-
 
 
 
